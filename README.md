@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new techniques
 - 🌱 I’m currently learning HTML,CSS and Python languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (muralipaila1313@gmail.com)
+- 📫 
 
 <!---
 PailaMuraliMadhav/PailaMuraliMadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
