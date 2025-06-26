@@ -33,8 +33,12 @@ Email (replace with your email)
 
 🗃️ Using Git and GitHub for version control and collaboration.
 
-📈 GitHub Contribution Snake
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake.svg" /> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PailaMuraliMadhav/PailaMuraliMadhav/output/github-contribution-grid-snake.svg" />
+</picture>
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PailaMuraliMadhav&show_icons=true&theme=radical" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PailaMuraliMadhav&theme=radical" alt="GitHub Streak"/> </p>
 🌟 Let's Connect!
