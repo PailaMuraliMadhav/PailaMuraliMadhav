@@ -6,14 +6,13 @@
 
 🌱 Currently learning HTML, CSS, JavaScript, and Python.
 
-🖥️ Love creating macOS-like interfaces on Windows using web technologies.
 
 🔭 Exploring Node.js and Express.js for backend development (routing, middleware, RESTful APIs).
 
 💞️ Open to collaborating on open-source and web development projects.
 
 📫 How to reach me:
-LinkedIn | Twitter | Email: your-email@example.com
+LinkedIn:https://www.linkedin.com/in/pailamuralimadhav/| Email: muralipaila1313l@gmail.com
 
 🛠️ Technologies & Tools
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Informatica-FF4A00?style=flat-square&logoColor=white"/> </p>
