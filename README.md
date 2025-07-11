@@ -10,11 +10,10 @@
 
 - 👋 Hi, I’m @PailaMuraliMadhav  
 - 👨‍💻 Passionate about learning new programming techniques and building creative projects.  
-- 🌱 Currently learning HTML, CSS, JavaScript, and Python.  
+- 🌱 Currently learning MERN stack and C++. 
 - 🔭 Exploring Node.js and Express.js for backend development (routing, middleware, RESTful APIs).  
 - 💞️ Open to collaborating on open-source and web development projects.  
-- 📫 How to reach me:  
-  - [LinkedIn](https://www.linkedin.com/in/pailamuralimadhav/)  
+- 📫 How to reach me:   
   - 📧 Email: muralipaila1313l@gmail.com  
 
 ---
@@ -74,8 +73,7 @@
 ## 🌟 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/pailamuralimadhav/)
-- <!-- Add your Twitter link -->
-- <!-- Add your portfolio link or remove this line -->
+- [Portfolio](https://psnarayanapaila.wixsite.com/muralipaila)
 
 ---
 
