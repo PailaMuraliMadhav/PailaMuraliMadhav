@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @PailaMuraliMadhav  
 - 👨‍💻 Passionate about learning new programming techniques and building creative projects.  
-- 🌱 Currently learning MERN stack and C++. 
+- 🌱 Currently learning MERN stack ,C++ and Java. 
 - 🔭 Exploring Node.js and Express.js for backend development (routing, middleware, RESTful APIs).  
 - 💞️ Open to collaborating on open-source and web development projects.  
 - 📫 How to reach me:   
